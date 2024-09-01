@@ -1,5 +1,4 @@
 import streamlit as st
-from matplotlib import pyplot as plt
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 from skimage import io
